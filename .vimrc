@@ -21,3 +21,6 @@ call plug#end()
 
 xmap ga <Plug>(EasyAlign)
 nmap ga <Plug>(EasyAlign)
+
+:command PI PlugInstall
+:command NT NERDTree
